@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\code\Rabbit" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Publish" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="docker-compose.yml" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Publish.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Publish.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Rabbit.sln" t="IncludeFlat" />
+      <e p="Subscribe" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Subscribe.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Subscribe.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+    <e p="C:\Users\Roma\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Roma\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Roma\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Roma\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Roma\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Rabbit.-1950439738.00" t="ExcludeRecursive" />
+  </component>
+</project>
